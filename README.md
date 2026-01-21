@@ -123,12 +123,6 @@ Las contribuciones son bienvenidas. Si encuentras algún bug o tienes alguna sug
 
 Este proyecto está bajo la Licencia MIT.
 
-## 👤 Autor
-
-**[Tu Nombre]**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu.email@ejemplo.com
 
 ---
 
